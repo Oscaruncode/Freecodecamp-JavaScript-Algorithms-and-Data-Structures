@@ -1,0 +1,1 @@
+This repository contains the projects for the course "JavaScript-Algorithms-and-Data-Structures" from FreeCodeCamp, by Oscar Fuentes.
